@@ -8,7 +8,8 @@ Criado atráves do <a href="https://devchallenge.vercel.app/"> DevChallenge </a>
 ![Gravação-de-Tela-2021-12-29-às-05 05 07](https://user-images.githubusercontent.com/93945597/147640997-54a933d5-6dfc-4244-8db6-0c82563f6051.gif)
 
 # :iphone: Apresentação Mobile #
-![Gravação-de-Tela-2021-12-29-às-05 14 28](https://user-images.githubusercontent.com/93945597/147641403-5319e446-1260-45b1-b181-45919061f9db.gif)
+![Gravação-de-Tela-2021-12-29-às-16 28 14](https://user-images.githubusercontent.com/93945597/147697046-04edc904-bda8-4738-84a0-81aa0924bd0d.gif)
+
 
 # 📝 Linguagens de tecnologia utilizadas no projeto #
 - HTML
