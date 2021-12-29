@@ -10,7 +10,7 @@ Criado atráves do <a href="https://devchallenge.vercel.app/"> DevChallenge </a>
 # 🎬 Apresentação Mobile #
 ![Gravação-de-Tela-2021-12-29-às-05 14 28](https://user-images.githubusercontent.com/93945597/147641403-5319e446-1260-45b1-b181-45919061f9db.gif)
 
-# 📝 Linguagens de tecnologia utilizadas no projeto#
+# 📝 Linguagens de tecnologia utilizadas no projeto #
 - HTML
 - CSS
 - JavaScript
